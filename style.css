@@ -59,21 +59,14 @@ div {
 
 
 .btn-blue {
-  background-color: #6B72E1;
+  background-color: #6B72E1;*/
   border: 1px solid LightGrey;
   padding: 10px 20px;
   position: relative;
   text-align: center;
   width: 100%;
-}
-
-.btn-blue a {
-  border: 1px solid #6B72E1;
-  border-radius: 6px;
-  color: black;
-  display: inline-block;
+  color: white;
   margin: 10px;
-  padding: 14px;
   text-decoration: none;
 }
 
